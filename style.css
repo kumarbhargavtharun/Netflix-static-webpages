@@ -1,0 +1,19 @@
+body
+{
+    background-color:black;
+    color:white;
+}
+.c1
+{
+    color:red;
+    font-size: 25px;
+}
+.c2{
+    color:white;
+    font-size: 15px;
+    text-decoration: none;
+}
+img{
+    width: 200px;
+    height:130px;
+}
